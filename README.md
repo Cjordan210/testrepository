@@ -1,3 +1,3 @@
 # testrepository
 
-testing how a cukimayer runs a repository
+testing how a Cjordan210 runs a repository
